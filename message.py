@@ -1,7 +1,7 @@
 """
 Created on 3 Sep 2015
 
-@author: Mohammed
+@author: Mohammed Rizwan
 """
 
 # Import smtplib for the actual sending function

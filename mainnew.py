@@ -1,7 +1,7 @@
 """
 Created on 1 Sep 2015
 
-@author: Mohammed
+@author: Mohammed Rizwan
 """
 
 # menu for database programme
